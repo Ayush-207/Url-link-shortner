@@ -184,6 +184,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [ayush.gl2003@gmail.com](mailto:ayush.gl2003@gmail.com)
 
 Project Link: [https://github.com/yourusername/url-shortener](https://github.com/yourusername/url-shortener)
