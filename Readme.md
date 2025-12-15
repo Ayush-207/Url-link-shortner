@@ -41,7 +41,7 @@ url-shortener/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/url-shortener.git
+git clone https://github.com/Ayush-207/Url-link-shortner.git
 cd url-shortener
 ```
 
